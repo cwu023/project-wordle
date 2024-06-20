@@ -1,6 +1,6 @@
 # Word Game
 
-## Joy of React, Project I
+## [Live Site](https://cwu023-react-wordle-game.netlify.app/)
 
 In this project, we'll recreate a popular online word game, Wordle:
 
