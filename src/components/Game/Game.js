@@ -31,7 +31,7 @@ function Game() {
 
   return (
     <>
-      {gameStatus}
+      <h4 className="hint">Check the console to see the answer.</h4>
       <GuessResult guesses={guesses} answer={answer} />
       <GuessInput onGuessesResult={handleGuessesResult} gameStatus={gameStatus} />
       {gameStatus === 'won' && <WonBanner numOfGuesses={guesses.length} />}

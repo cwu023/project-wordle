@@ -107,6 +107,11 @@ h1 {
   font-size: 2rem;
 }
 
+.hint {
+  font-size: 1.3rem;
+  text-align: center;
+}
+
 /*
   Round the corners for the 4 cells at the very corners of
   the game board
